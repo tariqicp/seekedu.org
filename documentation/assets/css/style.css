@@ -1,0 +1,255 @@
+/* 	Documentation Style  */
+
+/*
+*
+*	Developed By: 	urosd
+*
+*/
+
+/*
+--------------- Document Basic ---------------
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: inherit;
+    padding: inherit;
+}
+
+body {
+    background-color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    line-height: 150%;
+    color: #555;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #1a1a1a;
+    font-weight: 700;
+}
+
+p {
+    margin: 0;
+}
+
+.jumbotron a {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+mark {
+    background-color: #CC446C;
+    color: #fff;
+}
+
+.area-title h1 {
+    margin-bottom: 20px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #CC446C;
+}
+
+.doc-title {
+    padding: 30px 0 20px;
+}
+
+.doc-title h2 {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eee;
+}
+
+.doc-title p {
+    margin-bottom: 10px;
+}
+
+
+/*
+--------------- Document Header ---------------
+*/
+
+.navbar-default {
+    background-color: #1A1A1A;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-weight: 700;
+    padding: 30px 15px;
+    text-transform: uppercase;
+}
+
+#doc-menu {
+    text-align: center;
+}
+
+ul.navbar-nav {
+    float: none;
+}
+
+.dropdown-menu {
+    top: 99%;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.dropdown-menu > li > a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: #CC446C;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+    background-color: #CC446C;
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    background-color: #CC446C;
+    color: #fff;
+}
+
+.dropdown-menu > li > a {
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+    background-color: #CC446C;
+    color: #fff;
+    text-decoration: none;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > .active > a:hover {
+    background-color: #CC446C;
+    color: #fff;
+}
+
+.jumbotron .h1,
+.jumbotron h1 {
+    color: #1a1a1a;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.doc-welcome-area {
+    margin-top: 70px;
+}
+
+.doc-welcome h1 span {
+    color: #CC446C;
+}
+
+.doc-welcome p {
+    font-size: 18px;
+}
+
+.thankyoumsg {
+    padding: 30px 60px 10px;
+}
+
+.thankyoumsg P {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.thankyoumsg P:last-child {
+    border-bottom: 0;
+}
+
+#scrollUp {
+    background: #CC446C none repeat scroll 0 0;
+    border-radius: 3px;
+    bottom: 20px;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px;
+    right: 20px;
+    text-transform: capitalize;
+    transition: all 0.5s ease 0s;
+    z-index: 999;
+    text-decoration: none;
+}
+
+#scrollUp:hover {
+    background-color: #818181;
+    text-decoration: none;
+}
+
+
+/*
+--------------- Document Installation ---------------
+*/
+
+.document-installation {}
+
+.document-installation ol {
+    padding: 30px;
+}
+
+.document-installation ol li {
+    margin-bottom: 15px;
+}
+
+
+/*
+--------------- Document Credits ---------------
+*/
+
+.document-credits {}
+
+.document-credits ul {
+    margin-left: 30px;
+}
+
+
+/*
+--------------- Document Support ---------------
+*/
+
+.document-support {}
+
+.document-support blockquote {
+    margin: 50px 0;
+}
+
+
+/*
+--------------- Footer ---------------
+*/
+
+.main-footer {
+    padding: 30px 0;
+    background-color: #f0f0f0;
+}
