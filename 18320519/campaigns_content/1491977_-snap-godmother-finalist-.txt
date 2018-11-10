@@ -1,0 +1,27 @@
+http://royalhometownhero.com/
+
+
+** Godmother Finalist
+------------------------------------------------------------
+http://royalhometownhero.com/
+Great news alert!
+
+The CEO of SEEK Foundation- Anike Sakariyawo has been selected as a finalist to be name Royal Caribbean's Harmony of the Seas-Godmother. If she becomes the winner, the awarded funds will help SEEK Foundation provide more services and programs for our youth! We are asking for your vote. This is how you can vote in 3 easy step.
+
+1.Click on the link:
+www.local10.com/godmother
+
+2. Scroll down to Anike's name and click the button.
+
+3. Submit.
+
+Thanks in advance for your vote and do not forget to share.
+
+Locally yours,
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

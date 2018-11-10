@@ -1,0 +1,20 @@
+http://www.seekedu.org
+http://www.seekedu.org
+
+
+** Get Hip and Fit Fair
+------------------------------------------------------------
+Greetings,
+
+It's that time again! Our 4th annual, free, "Get Hip and Fit" Fair. This is public event that is open to all communities.
+
+If you are interested in volunteering contact us at 305.639.0142; email Ms. Johnson at ajohnson@seekedu.org (mailto:ajohnson@seekedu.org) ; and or visit our website at www.seekedu.org (click on the opportunity tab to register)
+
+We are looking forward to seeing you all there.
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

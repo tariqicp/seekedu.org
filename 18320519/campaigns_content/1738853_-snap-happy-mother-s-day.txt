@@ -1,0 +1,14 @@
+** Happy Mother's Day
+------------------------------------------------------------
+There is no way to be a perfect mother but a million ways to be a good one. -Jill Churchill
+
+Happy Mother's Day and enjoy your time with family, friends, and love ones.
+
+Locally yours,
+
+S.E.E.K Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

@@ -1,0 +1,16 @@
+http://www.seekedu.org
+
+
+** Happy Memorial Day
+------------------------------------------------------------
+http://www.seekedu.org
+Memorial Day was originally called Decoration Day and was initiated to honor the soldiers for the Union and Confederate armies who died during the American Civil War.
+
+Celebrations honoring Civil War heroes started the year after the war ended. We would like to thank all soldiers who dedicated their life to keep us safe!
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

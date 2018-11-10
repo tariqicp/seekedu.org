@@ -1,0 +1,18 @@
+http://www.seekedu.org
+http://www.seekedu.org
+
+
+** Happy Holiday
+------------------------------------------------------------
+Greetings,
+
+Happy Thanksgiving! Enjoy a time for gratefulness, appreciation, with family, friends, and love ones.
+
+Locally yours,
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

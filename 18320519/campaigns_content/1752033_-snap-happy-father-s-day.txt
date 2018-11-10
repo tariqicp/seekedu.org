@@ -1,0 +1,14 @@
+** Happy Father's Day
+------------------------------------------------------------
+Dads are role models, teachers, and caregivers. We are sharing this message to celebrate fathers and all they do!
+
+Enjoy your day dads!
+
+Locally your,
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

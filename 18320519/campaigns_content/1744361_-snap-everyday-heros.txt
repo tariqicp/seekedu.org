@@ -1,0 +1,14 @@
+http://www.seekedu.org
+
+
+** Everyday Heros
+------------------------------------------------------------
+Remembering and appreciating those who have paid the way for our freedom-Thank you!
+
+SEEK Foundation, Inc.
+Subscribe to our newsletter🙂 (http://www.seekedu.org)
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

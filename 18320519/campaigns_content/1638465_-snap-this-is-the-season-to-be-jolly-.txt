@@ -1,0 +1,12 @@
+** This is the season to be Jolly!
+------------------------------------------------------------
+May your holiday be filled with love from family and friends!
+
+Locally yours,
+
+SEEK Foundation, Inc
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

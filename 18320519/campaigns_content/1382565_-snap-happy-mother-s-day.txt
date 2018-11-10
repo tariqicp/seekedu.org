@@ -1,0 +1,12 @@
+http://www.seekedu.org
+
+
+** Happy Mother's Day
+------------------------------------------------------------
+http://www.seekedu.org
+A mother may hold your hand for a certain time frame but she will hold and protect your heart forever!
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

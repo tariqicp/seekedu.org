@@ -1,0 +1,23 @@
+http://www.seekedu.org
+
+
+** Feed and Clothe the Homeless/Hungry
+------------------------------------------------------------
+http://www.seekedu.org
+Join us this Saturday to Feed and Clothe the Homeless each and every month.
+
+All monthly dates are available on our website at www.seekedu.org and click on Opportunities. In addition, donations for each event can be made on our store page. Dates for some events are subject to change due to other occasions.
+
+The items on the menu are:
+1. Bar-B-Que meatballs
+2. Potato Salad
+3. Baked beans
+4. Cake
+5. Water
+
+Also, if you have not registered online, be sure to complete your online orientation before becoming a volunteer. Email your information to our Volunteer Coordinator -Ambry Johnson at ajohnson@seekedu.org (mailto:ajohnson@seekedu.org)
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

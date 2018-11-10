@@ -1,0 +1,17 @@
+==============================================
+*|LIST:DESCRIPTION|*
+
+Unsubscribe *|EMAIL|* from this list:
+*|UNSUB|*
+
+Our mailing address is:
+*|LIST:ADDRESS|*
+
+Our telephone:
+*|LIST:PHONE|*
+
+Forward this email to a friend:
+*|FORWARD|*
+
+Update your profile:
+*|UPDATE_PROFILE|*

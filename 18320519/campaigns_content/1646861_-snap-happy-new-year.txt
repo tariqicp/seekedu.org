@@ -1,0 +1,15 @@
+http://www.seekedu.org
+
+
+** Happy New Year
+------------------------------------------------------------
+Enjoy life, love and forgive more,acquire wealth, maintain health, and choose happiness in 2017.
+
+Locally yours,
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

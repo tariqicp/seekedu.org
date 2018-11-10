@@ -1,0 +1,22 @@
+http://www.seekedu.org
+
+
+** Boot Camp Fundraiser
+------------------------------------------------------------
+http://www.seekedu.org
+Greetings,
+
+SEEK Foundation has partnered with the Workout Kings to help fundraise for our free, 4th annual, "Get Hip and Fit Fair," which promotes healthy eating and physical fitness awareness. The cost is $10 to attend a session with the option to donate more. If you can not make it, you are more than welcome to donate online by clicking on one of the links below.
+
+1. Eventbrite link: www.eventbrite.com/e/book-camp-fundraiser-tickets-25995800138
+
+2. Or donate through our website on the store page: www.seekedu.org/Store.html
+
+Thank you for your continuous support!
+
+SEEK Foundation, Inc.
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

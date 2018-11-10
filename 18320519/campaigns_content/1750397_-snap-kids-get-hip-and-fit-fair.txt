@@ -1,0 +1,29 @@
+http://www.seekedu.oorg
+http://www.seekedu.oorg
+
+
+** Kids Get Hip and Fit Fair
+------------------------------------------------------------
+SEEK will be hosting their free, 5th annual "Kids Get Hip and Fit Fair." We have grown from 76 up to 500 kids in attendance, over the past 4 years. We are currently expecting 700 kids this year and we need your help. If you would like to participate and or help in the following ways (below), emails us (Ambry Johnson, Ilona Wolpin, and or Anike Sakariyawo) on our website.
+
+Here is how you can help:
+1. Heathy food demonstration, vendors, and or donate
+2. Fitness demonstration and or be a vendor
+3. Football mini camp
+4. Yoga demonstration
+5. Health and fitness related vendors
+6. Motivational speaker
+7. Volunteers
+8. Sponsorship(s)
+
+Thanks in advance for your continuous support!
+
+Locally yours,
+
+SEEK Foundation, Inc.
+Donate to SEEK (http://www.seekedu.oorg)
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+*|IF:REWARDS|*
+*|REWARDS_TEXT|*
+*|END:IF|*

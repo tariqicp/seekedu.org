@@ -1,0 +1,23 @@
+** Volunteer Orientation Information
+------------------------------------------------------------
+Perspective Volunteers
+
+The first step to volunteering with SEEK, Inc., is to reserve a seat for orientation. The objective of the orientation is to provide information about SEEK's vision, mission, and expectations of all individuals involved with the organization. If you are interested in been actively involved in any of SEEK's occasions, please go to our website (www.seekedu.org) and click on the "Volunteers" tab to register for an upcoming "Volunteer Orientation". It is imperative that all NEW participants attend an orientation session before volunteering. Seating for attendance at the orientation is limited.
+Current Volunteers
+
+If you are actively volunteering with SEEK, Inc., you do not have to attend an orientation. However, there are some important documents we require all volunteers to read and acknowledge (sign), prior to registering for any future events. These documents can be accessed through our website (www.seekedu.org), in the "Volunteers" tab, under the "Download Important Documents" section. Please read ALL documents and sign where needed. You can scan and email the completed documents to our Volunteer Coordinator - Ambry Johnson (ajohnson@seeked.org) or bring them  with you to an upcoming event.
+
+============================================================
+Contact us:
+
+If you have any questions or concerns, please do not hesitate to contact our Volunteer Coordinator - Ambry Johnson (ajohnson@seekedu.org) for assistance.
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+
+** unsubscribe from this list (*|UNSUB|*)
+** update subscription preferences (*|UPDATE_PROFILE|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
