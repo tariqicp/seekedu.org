@@ -11,7 +11,7 @@
  *
  */
 
-
+body
 /*  ---------------------------------------------------------------------------
     Table of Contents
     ---------------------------------------------------------------------------
@@ -464,6 +464,8 @@ ul.breadcrumb li a {
     top: 0;
     left: 0;
     width: 100%;
+    background: black;
+    opacity:.75;
 }
 
 
@@ -663,7 +665,7 @@ nav {
 .banner-area .owl-nav .owl-next i,
 .banner-area .owl-nav .owl-prev i,
 .single-banner::after {
-    background-color: rgba(0, 0, 0, 0.65) !important;
+    background-color: rgba(0, 0, 0, 0.45) !important;
 }
 
 .single-banner {
@@ -895,7 +897,7 @@ nav {
     ========================== */
 
 .about-area {
-    background-color: #F6F6F6;
+    background-color: white;
 }
 
 .mb {
@@ -1231,7 +1233,7 @@ nav {
     ================================ */
 
 .gallery-area {
-    background-color: #F6F6F6;
+    background-color: white;
 }
 
 .gallery-active {
@@ -1495,7 +1497,7 @@ textarea.form-control {
     ================================ */
 
 .events-area {
-    background-color: #F6F6F6;
+    background-color: white;
 }
 
 .events-content {
