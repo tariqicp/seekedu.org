@@ -34,6 +34,11 @@
 
 -------------------------------------------*/
 
+
+div.footer-newsletter{
+
+    min-width: 200px;
+}
 body {
     font-family: Catamaran;
     font-weight: 400;
@@ -825,7 +830,7 @@ section {
 }
 
 .slide.one {
-    background: url(../images/slider/slide-2.jpg) 48% 48%;
+    background: url(../images/bg/stembg.JPG) 48% 48%;
     background-size: cover;
 }
 
@@ -2258,7 +2263,7 @@ label {
 
 .footer-top {
     background-color: #1f1f1f;
-    color: #787878;
+    color: antiquewhite;
     overflow: hidden;
     padding-bottom: 70px;
 }
