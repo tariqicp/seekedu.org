@@ -1240,15 +1240,18 @@ section {
     -o-transition-duration: 0s;
     transition-duration: 0s;
 }
-
+.portfolio-area .title-text {
+    pointer-events: none;
+}
 #filters {
-    overflow: hidden;
     list-style: none;
+    /*overflow: hidden;
     width: 10%;
     margin-bottom: 30px;
     padding: 0;
     float: left;
-    text-align: right;
+    text-align: right;*/
+    display: flex;
 }
 
 #filters > li {
@@ -1268,12 +1271,11 @@ section {
 }
 
 .portfolio-container {
-    float: left;
-    width: 90%;
+    width: 100%;
 }
 
 .portfolio-item {
-    padding-bottom: 30px;
+    padding: 0;
 }
 
 .portfolio-item img {
@@ -1287,7 +1289,7 @@ section {
 }
 
 .portfolio-column:hover {
-    margin-top: -5px;
+/*    margin-top: -5px;*/
     -webkit-box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.3);
     box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.3);
